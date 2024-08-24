@@ -1,0 +1,35 @@
+[
+    {
+        "id_socio": 1,
+        "nombre": "Luis",
+        "apellido": "Oviedo",
+        "fecha_nacimiento": "1990-05-11",
+        "direccion": "Calle publica 311",
+        "correo_electronico": "Luis.Oviedo@uner.com",
+        "telefono": "4513-546"
+    }
+
+
+,
+    {
+        "id_socio": 2,
+        "nombre": "Carolina",
+        "apellido": "Perez",
+        "fecha_nacimiento": "1997-06-25",
+        "direccion": "Mitre 5687",
+        "correo_electronico": "Carolinaperez@uner.com",
+        "telefono": "2977-556239"
+    }
+
+,
+
+    {
+        "id_socio": 3,
+        "nombre": "Mariana",
+        "apellido": "Carrasco",
+        "fecha_nacimiento": "1998-07-03",
+        "direccion": "Santa Cruz 6532",
+        "correo_electronico": "marianacarrasco@uner.com",
+        "telefono": "2977.665543"
+    }
+]

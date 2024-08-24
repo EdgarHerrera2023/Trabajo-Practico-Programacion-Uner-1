@@ -1,0 +1,11 @@
+[
+    {
+        "id_prestamo": 1,
+        "id_socio": 1,
+        "id_libro": 1,
+        "fecha_prestamo": "01/07/2024",
+        "costo": 200.0,
+        "fecha_devolucion": "08/07/204",
+        "estado_prestamo": "En Curso"
+    }
+]

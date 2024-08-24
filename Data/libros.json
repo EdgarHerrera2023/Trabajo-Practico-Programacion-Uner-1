@@ -1,0 +1,65 @@
+[
+    {
+        "id_libro": 1,
+        "titulo": "Sobre Heroes y Tumbas",
+        "autor": "Ernesto Sabato",
+        "editorial": "Seix Barral",
+        "anio_publicacion": 1961,
+        "genero": "Novela",
+        "cantidad_disponible": 6
+    },
+    {
+        "id_libro": 2,
+        "titulo": "Rayuela",
+        "autor": "Julio Cortazar",
+        "editorial": "Sudamericana",
+        "anio_publicacion": 1963,
+        "genero": "Novela",
+        "cantidad_disponible": 7
+    },
+    {
+        "id_libro": 3,
+        "titulo": "Rayuela",
+        "autor": "Julio Cortazar",
+        "editorial": "Sudamericana",
+        "anio_publicacion": 1963,
+        "genero": "Novela",
+        "cantidad_disponible": 7
+    },
+    {
+        "id_libro": 4,
+        "titulo": "Veintes Poemas ",
+        "autor": "Pablo Neruda",
+        "editorial": "Nacimiento",
+        "anio_publicacion": 1924,
+        "genero": "Romantico",
+        "cantidad_disponible": 2
+    },
+    {
+        "id_libro": 5,
+        "titulo": "El Tunel",
+        "autor": "Ernesto Sabato",
+        "editorial": "Sur",
+        "anio_publicacion": 1948,
+        "genero": "Novela Psicologica",
+        "cantidad_disponible": 2
+    },
+    {
+        "id_libro": 6,
+        "titulo": "Exhalacion",
+        "autor": "TED CHIANG",
+        "editorial": "Sexto piso",
+        "anio_publicacion": 1967,
+        "genero": "cuento",
+        "cantidad_disponible": 4
+    },
+    {
+        "id_libro": 7,
+        "titulo": "Veintes Poemas",
+        "autor": "Pablo Neruda",
+        "editorial": "Nacimiento",
+        "anio_publicacion": 1924,
+        "genero": "Romantico",
+        "cantidad_disponible": 2
+    }
+]

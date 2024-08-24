@@ -1,0 +1,12 @@
+
+[
+    {
+        "id_libro": 1,
+        "titulo": "Cien Años de Soledad",
+        "autor": "Gabriel García Márquez",
+        "editorial": "Sudamericana",
+        "anio_publicacion": 1967,
+        "genero": "Novela",
+        "cantidad_disponible": 5
+    }
+]
